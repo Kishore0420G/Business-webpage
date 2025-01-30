@@ -156,9 +156,9 @@ button a{
     width: 500px;
 }
 
-.benefit-img{
-    /* border: 1px solid; */
-}
+/* .benefit-img{
+    border: 1px solid;
+} */
 
 .benefit-text-content p{
     /* border: 1px solid; */
@@ -181,9 +181,9 @@ button a{
     margin-top: 50px;
 }
 
-.team-profile{
-    /* border: 1px solid; */
-}
+/* .team-profile{
+    border: 1px solid;
+} */
 
 .team-head{
     display: flex;
